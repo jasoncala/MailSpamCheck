@@ -3,3 +3,5 @@ Machine Learning using the OneVsRestClassifier and TfidfVectorizer on a dataset 
 
 Below is a screenshot of the running app:
 ![Image of App](https://github.com/jasoncala/MailSpamCheck/blob/main/data/screenshot.png)
+
+This project was done to continue practicing with machine learning methods.
